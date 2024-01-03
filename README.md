@@ -6,6 +6,7 @@ This project is migrating the [rock-paper-scissor application previously created
 This game consists of selecting an option, comparing and showing the winner. When the comparison is finished, the user chooses whether they want to continue playing or leave the game.
 
 # Project tree
+```
 rock-paper-sscissor-cSharp
     ├── LICENSE.txt
     ├── README.md    
@@ -22,6 +23,7 @@ rock-paper-sscissor-cSharp
         ├── Program.cs
         ├── RockPaperScissors.csproj
         └── RockPaperScissors.sln
+```
 
 
 
